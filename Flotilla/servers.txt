@@ -1,3 +1,3 @@
-123.1.2.3|Rugbug's Realm|rugbug.png
-1245.123.2141|Gamer Squad|gamer.png
-123.12354.1|Test server|test.png
+123.1.2.3|Rugbug's Realm|rugbug made this realm and i think that its pretty good|rugbug.png
+1245.123.2141|Gamer Squad|gamers only|gamer.png
+123.12354.1|Test server|THIS is the OFFICIAL! test server for flotilla|test.png
