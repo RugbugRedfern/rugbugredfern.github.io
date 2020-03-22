@@ -1,0 +1,4 @@
+127.0.0.1|Home address|this is <i>the</i> default ip address|127.png
+localhost|Localhost!|your friendly <b>local</b> computer!
+192.0.0.1|bruh
+12804512.214.3|<color=orange>ayeee</color><b>this is <i>great</i></b>!!!|description? maybe?§§§§§☺☺☺☻☻☻
