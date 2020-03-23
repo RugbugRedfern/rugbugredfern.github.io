@@ -1,6 +1,6 @@
 3-21-2020|Flotilla Development Started!|This is my fourth attempt at making Flotilla.
 With every attempt I've refined the idea of what Flotilla will be and perfected my methods.
 Hopefully this is the final one!|https://www.youtube.com/watch?v=oHg5SJYRHA0~
-3-23-2020|Working on the news system.|I started working on the news system today!
+~3-23-2020|Working on the news system.|I started working on the news system today!
 Hopefully it will be done soon.
-This will be great!~
+This will be great!
