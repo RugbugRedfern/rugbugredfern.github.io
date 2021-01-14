@@ -1,1 +1,1 @@
-YOU MAY BE PLAYING AN ILLEGAL VERSION OF THE GAME.|https://rugbugredfern.github.io/Redmatch2/Version/index.html
+<color=red>YOU MAY BE PLAYING AN ILLEGAL VERSION OF THE GAME.</color>|https://rugbugredfern.github.io/Redmatch2/Version/index.html
