@@ -1,1 +1,1 @@
-<color=red>Click here to play!</color>|https://rugbugredfern.github.io/Redmatch2/Version/index.html
+<color=red><size=300>Click here to play!</size></color>|https://rugbugredfern.github.io/Redmatch2/Version/index.html
