@@ -1,1 +1,1 @@
-<color=red>You may be playing a stolen version of the game! Please click here.</color>|https://rugbugredfern.github.io/Redmatch2/Version/index.html
+<color=red>Click here to play!</color>|https://rugbugredfern.github.io/Redmatch2/Version/index.html
