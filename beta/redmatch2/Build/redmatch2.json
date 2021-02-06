@@ -1,0 +1,17 @@
+{
+"companyName": "Redlabs",
+"productName": "Redmatch 2",
+"productVersion": "1.0.4",
+"dataUrl": "redmatch2.data.unityweb",
+"wasmCodeUrl": "redmatch2.wasm.code.unityweb",
+"wasmFrameworkUrl": "redmatch2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "redmatch2.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
