@@ -1,1 +1,1 @@
-parent.document.location = "https://rugbugredfern.itch.io/redmatch2"
+parent.document.location = "https://store.steampowered.com/app/1280770/Redmatch_2/"
